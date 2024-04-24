@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="MapsuiDemo/App.axaml" value="MapsuiDemo/MapsuiDemo.csproj" />
+        <entry key="MapsuiDemo/Views/MainWindow.axaml" value="MapsuiDemo/MapsuiDemo.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
